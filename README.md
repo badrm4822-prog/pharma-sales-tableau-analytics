@@ -6,7 +6,7 @@ An exploratory business-intelligence project analyzing pharmaceutical sales acro
 
 ## Project contents
 
-- `tableau/Pharma_Sales_Analytics.twbx` — packaged Tableau workbook with its embedded extract.
+- `Pharma_Sales_Analytics.twbx` — packaged Tableau workbook with its embedded extract.
 - `docs/data_dictionary.md` — field definitions.
 - `docs/analysis_notes.md` — selected findings and interpretation cautions.
 - `docs/screenshots/` — place dashboard screenshots here after reviewing the workbook in Tableau.
@@ -32,7 +32,7 @@ See [`docs/analysis_notes.md`](docs/analysis_notes.md) for caveats.
 ## Open the workbook
 
 1. Install/open Tableau Public Desktop.
-2. Select **File → Open** and choose `tableau/Pharma_Sales_Analytics.twbx`.
+2. Select **File → Open** and choose `Pharma_Sales_Analytics.twbx`.
 3. Review the workbook and confirm filters, dashboards, and story behavior in Tableau before publishing.
 4. If you publish the workbook to Tableau Public, add the public visualization URL here.
 
