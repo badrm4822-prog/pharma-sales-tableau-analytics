@@ -7,27 +7,14 @@ An exploratory business-intelligence project analyzing pharmaceutical sales acro
 
 ## 📊 Dashboard Gallery
 
-Explore the key findings from the pharmaceutical sales analysis.
-
 ### 1. Executive Overview
-A high-level view of sales performance, customer reach, product mix, and sales channels.
-
-![Executive Overview](docs/screenshots/executive-overview.png)
+![Executive Overview](docs/screenshots/Screenshot%202026-10-21%20020005.png)
 
 ### 2. Time Trend & Seasonality
-Explore annual performance, monthly trends, and quarterly sales patterns.
-
-![Time Trend](docs/screenshots/time-trend.png)
+![Time Trend](docs/screenshots/Screenshot%202026-10-21%20020023.png)
 
 ### 3. Product & Channel Analysis
-Compare product classes, top-selling products, pharmacies, hospitals, and sub-channels.
-
-![Product and Channel Analysis](docs/screenshots/product-channel.png)
-
-### 4. Data Quality & Sales Concentration
-Investigate negative sales, potential duplicate records, unusual transaction values, and sales concentration.
-
-![Data Quality](docs/screenshots/data-quality.png)
+![Product & Channel Analysis](docs/screenshots/Screenshot%202026-10-21%20020246.png)
 
 
 
