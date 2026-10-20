@@ -4,6 +4,33 @@ An exploratory business-intelligence project analyzing pharmaceutical sales acro
 
 > **Data privacy note:** The packaged Tableau workbook includes an embedded Hyper extract. It contains transaction-level data and fields such as customer, distributor, and sales-representative names. Keep this repository **private** until you confirm that the dataset is authorized for public redistribution and contains no confidential or personal information.
 
+
+## 📊 Dashboard Gallery
+
+Explore the key findings from the pharmaceutical sales analysis.
+
+### 1. Executive Overview
+A high-level view of sales performance, customer reach, product mix, and sales channels.
+
+![Executive Overview](docs/screenshots/executive-overview.png)
+
+### 2. Time Trend & Seasonality
+Explore annual performance, monthly trends, and quarterly sales patterns.
+
+![Time Trend](docs/screenshots/time-trend.png)
+
+### 3. Product & Channel Analysis
+Compare product classes, top-selling products, pharmacies, hospitals, and sub-channels.
+
+![Product and Channel Analysis](docs/screenshots/product-channel.png)
+
+### 4. Data Quality & Sales Concentration
+Investigate negative sales, potential duplicate records, unusual transaction values, and sales concentration.
+
+![Data Quality](docs/screenshots/data-quality.png)
+
+
+
 ## Project contents
 
 - `Pharma_Sales_Analytics.twbx` — packaged Tableau workbook with its embedded extract.
