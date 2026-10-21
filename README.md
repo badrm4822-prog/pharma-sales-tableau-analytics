@@ -2,8 +2,7 @@
 
 An exploratory business-intelligence project analyzing pharmaceutical sales across time, product classes, sales channels, geographies, distributors, and sales teams.
 
-> **Data privacy note:** The packaged Tableau workbook includes an embedded Hyper extract. It contains transaction-level data and fields such as customer, distributor, and sales-representative names. Keep this repository **private** until you confirm that the dataset is authorized for public redistribution and contains no confidential or personal information.
-
+> ***Dataset & Privacy Note:** This project uses a publicly available pharmaceutical sales dataset for educational and portfolio purposes. The analysis is exploratory, and all findings are based on the dataset provided. The source currency is unspecified. Dataset source: [Insert original dataset URL].
 
 ## 📊 Dashboard Gallery
 
